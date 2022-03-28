@@ -1,0 +1,11 @@
+{
+    "name": "chat",
+    "version": "0.1.0",
+    "description": "Trabajo 03  Chat con Node JS",
+    "main": "app.js",
+    "author": "Guzman Casillas Jose Miguel",
+    "dependencies": {
+        "express": "~3.2.4",
+        "socket.io": "^0.9.19"
+    }
+}
